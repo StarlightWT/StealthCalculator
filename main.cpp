@@ -4,10 +4,6 @@
 #include <windows.h>
 
 int main() {
-    //!Debug mode
-    bool debug = false;
-    if(!debug) FreeConsole();
-
     // Declare all variables
     char key;
     char i;
